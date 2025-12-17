@@ -1,0 +1,10 @@
+C:\Users\orlan\Source\Repos\QuickSortApp\QuickSortApp\bin\Debug\QuickSortApp.exe.config
+C:\Users\orlan\Source\Repos\QuickSortApp\QuickSortApp\bin\Debug\QuickSortApp.exe
+C:\Users\orlan\Source\Repos\QuickSortApp\QuickSortApp\bin\Debug\QuickSortApp.pdb
+C:\Users\orlan\Source\Repos\QuickSortApp\QuickSortApp\obj\Debug\QuickSortApp.csproj.AssemblyReference.cache
+C:\Users\orlan\Source\Repos\QuickSortApp\QuickSortApp\obj\Debug\QuickSortApp.MainForm.resources
+C:\Users\orlan\Source\Repos\QuickSortApp\QuickSortApp\obj\Debug\QuickSortApp.Properties.Resources.resources
+C:\Users\orlan\Source\Repos\QuickSortApp\QuickSortApp\obj\Debug\QuickSortApp.csproj.GenerateResource.cache
+C:\Users\orlan\Source\Repos\QuickSortApp\QuickSortApp\obj\Debug\QuickSortApp.csproj.CoreCompileInputs.cache
+C:\Users\orlan\Source\Repos\QuickSortApp\QuickSortApp\obj\Debug\QuickSortApp.exe
+C:\Users\orlan\Source\Repos\QuickSortApp\QuickSortApp\obj\Debug\QuickSortApp.pdb
